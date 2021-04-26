@@ -1,0 +1,10 @@
+jan	carlos	prado
+000032184	Allan	Silva
+000031790	Geraldine	Porras
+000031680	Ernesto	Roman
+000032474	Jorge	Chavez
+000032246	Octavio	Guevara
+000032253	Jose	Arroliga
+carlos	mendoza	000032039
+dylan	diaz	000032741
+Jose	Arroliga	000031703
